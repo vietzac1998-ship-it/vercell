@@ -1,2 +1,0 @@
-# vercell
-báo cáo
